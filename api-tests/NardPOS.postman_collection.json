@@ -2,7 +2,7 @@
   "info": {
     "_postman_id": "112ef758-3771-400b-a418-4357cec79f31",
     "name": "NardPOS QA Tests",
-    "description": "Automated API tests for NardPOS (Login, Products, Sales) using Postman tests.",
+    "description": "Automated API tests for NardPOS (Login,Products,Sales) using Postman tests.",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "_exporter_id": "49730999"
   },
