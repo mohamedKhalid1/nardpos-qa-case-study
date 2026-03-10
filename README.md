@@ -187,6 +187,6 @@ Pipeline steps include:
 ---
 
 # Author
-
+Mohamed Khalid
 QA Automation Engineer Candidate
 NardPOS Case Study
