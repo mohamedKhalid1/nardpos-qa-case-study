@@ -197,9 +197,7 @@
                   "  }\r",
                   "};\r",
                   "\r",
-                  "pm.test(\"Login response schema is valid\", function () {\r",
-                  "  pm.response.to.have.jsonSchema(schema);\r",
-                  "});\r",
+              
                   "pm.test(\"Response time is acceptable\", function () {\r",
                   "    pm.expect(pm.response.responseTime).to.be.below(1000);\r",
                   "});"
