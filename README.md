@@ -116,7 +116,7 @@ mvn test
 
 The automated UI test performs the following flow:
 
-1. Login to the POS system
+1. Login to the SauceDemo system
 2. Create a sale with two products
 3. Verify the sale appears in Sales History
 
